@@ -1,0 +1,7 @@
+S->AxB|yxSR|SZ
+A->aA|aZ
+B->bB|bZ|AxM
+Z->AX|XY
+X->xy
+Y->yx
+J->K
